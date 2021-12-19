@@ -149,7 +149,7 @@ body {
   font-size: 2rem;
   color: #f9f9f9;
   line-height: 3rem;
-  width: 50rem;
+  width: 40rem;
 }
 
 .content-second {
@@ -301,12 +301,12 @@ body {
   }
 
   .content-first {
-    padding: 2rem 0 0 5rem;
+    padding: 2rem 0 0 8%;
   }
   
   .content-first h1 {
-    font-size: 4.5rem;
-    line-height: 5rem;
+    font-size: 4.8rem;
+    line-height: 5.6rem;
     margin-bottom: 1.6rem;
   }
   
